@@ -1,0 +1,211 @@
+.muggi{
+    height: 50px;
+    width: 100%;
+    border: 2px solid rgb(248, 245, 245);
+    background-color: rgb(233, 233, 210);
+}
+.ruggi select{
+    margin-top: 10px;
+    border: 1px solid transparent;
+    background-color: rgb(234, 241, 241);
+}
+.ruggi{
+    height: 30px;
+    width: 170px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+/* section3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.mahesh{
+    height: 400px;
+    width: 100%;
+    border: 2px solid green;
+}
+.mahesh img{
+    height: 400px;
+    width: 100%;
+    position: absolute;
+    
+    
+
+}
+.mahesh h1{
+    position: relative;
+    z-index:1;
+    text-align: center;
+    margin-top: 280px;
+    color: white;
+}
+/* section4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.suresh{
+    height: 600px;
+    width: 100%;
+    /* border: 2px solid rgb(128, 0, 255); */
+    margin-top: 20px;
+}
+.ggg{
+    height: 280px;
+    width: 330px;
+    /* border: 2px solid lime; */
+    float: left;
+    margin-left: 65px;
+    margin-top: 10px;
+    text-align: center;
+    color: darkcyan;
+    font-family: fantasy;
+}
+.ggg img{
+    height: 200px;
+    width: 330px;
+}
+/* body {
+    
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+} */
+/* section5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.sravani{
+    height: 450px;
+    width: 100%;
+/* border: 2px solid red; */
+background-color: rgb(241, 241, 240);
+}
+.shyam{
+    height: 100px;
+    width: 100px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-top: 10px;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 15px;
+    color: darkmagenta;
+}
+.shyam:hover{
+    border: 2px solid rgb(231, 201, 124);
+    border-radius: 20px;
+    background-color: rgb(214, 245, 235);
+}
+/* section6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.ram{
+    height: 590px;
+    width: 100%;
+/* border: 2px solid goldenrod; */
+margin-top: 20px;
+background-color: black;
+}
+.ki{
+    height:550px ;
+    width: 200px;
+    /* border: 2px solid greenyellow; */
+    float: left;
+    margin-left: 8px;
+    margin-top: 20px;
+    color: rgb(200, 204, 204);
+    
+}
+.ki img{
+    height: 150px;
+    width: 180px;
+    margin-top: 30px;
+}
+.ki h6{
+    color: rgb(216, 149, 24);
+    font-size: 17px;
+}
+.ki h5{
+    color: azure;
+    font-size: 10px;
+}
+.ki button{
+    padding: 5px 70px;
+    margin-left: 2px;
+    background-color: rgb(156, 156, 196);
+    color: white;
+    border: 2px solid rgb(155, 155, 189);
+    border-radius: 20px;
+    
+}
+.ki input{
+    margin-left: 4px;
+}
+.ki button:hover{
+    border: 2px solid white;
+    background-color: aquamarine;
+}
+.ki i{
+    font-size: 26px;
+    margin-left: 10px;
+}
+/* section7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,, */
+.padma{
+    height: 300px;
+    width: 100%;
+    border: 2px solid rgb(12, 11, 13);
+    background-color: black;
+}
+.padma1{
+    height: 100px;
+    width: 999px;
+    border: 1px solid rgb(168, 160, 145);
+    margin-left: 130px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: black;
+}
+.padma1 span{
+    margin-left: 90px;
+    color: aliceblue;
+}
+.padma1:hover{
+    border: 2px solid rgb(234, 216, 170);
+}
+.padma1 h3{
+    color: rgb(89, 167, 235);
+}
+.padma1 h2{
+    color: azure;
+}
+.padma1 span img{
+    margin-left: 110px;
+}
+.veeeru{
+    height: 100px;
+    width: 350px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-left: 10px;
+}
+.veeeru h5{
+    color: rgb(104, 104, 240);
+}
+
+.veeru{
+    height: 70px;
+    width: 200px;
+    /* border: 2px solid salmon; */
+    float: left;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.veeru img{
+    height: 70px;
+    width: 200px;
+    
+
+}
+.veeru1{
+    height: 70px;
+    width: 200px;
+    /* border: 2px solid salmon; */
+margin-left: 790px;
+margin-top: 20px;
+}
+.veeru1 img{
+    height: 70px;
+    width: 200px;
+
+}

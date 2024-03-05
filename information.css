@@ -1,0 +1,154 @@
+.mallika{
+    height: 450px;
+    width:100%;
+    /* border: 2px solid red; */
+}
+.mallika img{
+    height: 450px;
+    width:100%;
+ 
+}
+.dharam{
+    height: 300px;
+    width:100%;
+/* border: 2px solid green; */
+margin-top: 20px;
+background-color: rgb(230, 230, 223);
+
+}
+.dhar{
+    height: 420px;
+    width: 80%;
+    /* border: 2px solid green; */
+    margin-left: 410px;
+
+}
+.dhar input{
+    padding-left: 90px;
+    color: blue;
+}
+.dhar label{
+    font-size: 20px;
+    color: chocolate;
+}
+/* section3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.ram{
+    height: 590px;
+    width: 100%;
+/* border: 2px solid goldenrod; */
+margin-top: 20px;
+background-color: black;
+}
+.ki{
+    height:550px ;
+    width: 200px;
+    /* border: 2px solid greenyellow; */
+    float: left;
+    margin-left: 8px;
+    margin-top: 20px;
+    color: rgb(200, 204, 204);
+    
+}
+.ki img{
+    height: 150px;
+    width: 180px;
+    margin-top: 30px;
+}
+.ki h6{
+    color: rgb(216, 149, 24);
+    font-size: 17px;
+}
+.ki h5{
+    color: azure;
+    font-size: 10px;
+}
+.ki button{
+    padding: 5px 70px;
+    margin-left: 2px;
+    background-color: rgb(156, 156, 196);
+    color: white;
+    border: 2px solid rgb(155, 155, 189);
+    border-radius: 20px;
+    
+}
+.ki input{
+    margin-left: 4px;
+}
+.ki button:hover{
+    border: 2px solid white;
+    background-color: aquamarine;
+}
+.ki i{
+    font-size: 26px;
+    margin-left: 10px;
+}
+/* section4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,, */
+.padma{
+    height: 300px;
+    width: 100%;
+    border: 2px solid rgb(12, 11, 13);
+    background-color: black;
+}
+.padma1{
+    height: 100px;
+    width: 999px;
+    border: 1px solid rgb(168, 160, 145);
+    margin-left: 130px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: black;
+}
+.padma1 span{
+    margin-left: 90px;
+    color: aliceblue;
+}
+.padma1:hover{
+    border: 2px solid rgb(234, 216, 170);
+}
+.padma1 h3{
+    color: rgb(89, 167, 235);
+}
+.padma1 h2{
+    color: azure;
+}
+.padma1 span img{
+    margin-left: 110px;
+}
+.veeeru{
+    height: 100px;
+    width: 350px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-left: 10px;
+}
+.veeeru h5{
+    color: rgb(104, 104, 240);
+}
+
+.veeru{
+    height: 70px;
+    width: 200px;
+    /* border: 2px solid salmon; */
+    float: left;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.veeru img{
+    height: 70px;
+    width: 200px;
+    
+
+}
+.veeru1{
+    height: 70px;
+    width: 200px;
+    /* border: 2px solid salmon; */
+margin-left: 790px;
+margin-top: 20px;
+}
+.veeru1 img{
+    height: 70px;
+    width: 200px;
+
+}
+

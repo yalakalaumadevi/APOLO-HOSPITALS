@@ -1,0 +1,198 @@
+.he
+
+
+{
+    height: 450px;
+    width:100%;
+}
+.teja{
+    height: 500px;
+    width: 100%;
+    /* border: 2px solid green; */
+    text-align: center;
+    color: crimson;
+    background-color: rgb(249, 255, 255);
+}
+.bindhu{
+    height: 400px;
+    width: 500px;
+    /* border: 2px solid green; */
+float: left;
+margin-left: 100px;
+margin-top: 30px;
+}
+.bindhu img{
+    height: 350px;
+    width: 495px;
+    border-radius: 20px;
+
+}
+/* <!-- section4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, --> */
+.aravindh{
+    height: 470px;
+    width: 100%;
+    /* border: 2px solid red; */
+    text-align: center;
+}
+.aravindh h2{
+    color: rgb(73, 73, 151);
+}
+.srinu{
+    height: 400px;
+    width: 450px;
+    /* border: 2px solid red; */
+float: left;
+margin-left: 120px;
+margin-top: 5px;
+}
+.srinu img{
+    height: 400px;
+    width: 450px;
+    border-radius: 20px;
+
+}
+/* section5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.aru{
+    height: 470px;
+    width: 100%;
+ /* border: 2px solid greenyellow; */
+}
+.duggu{
+    height: 200px;
+    width: 300px;
+    /* border: 2px solid red; */
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.duggu img{
+    height: 170px;
+    width: 300px;
+
+}
+.duggu h6{
+    color: rgb(7, 6, 74);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+/* section6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, */
+.ram{
+    height: 590px;
+    width: 100%;
+/* border: 2px solid goldenrod; */
+margin-top: 20px;
+background-color: black;
+}
+.ki{
+    height:550px ;
+    width: 200px;
+    /* border: 2px solid greenyellow; */
+    float: left;
+    margin-left: 8px;
+    margin-top: 20px;
+    color: rgb(200, 204, 204);
+    
+}
+.ki img{
+    height: 150px;
+    width: 180px;
+    margin-top: 30px;
+}
+.ki h6{
+    color: rgb(216, 149, 24);
+    font-size: 17px;
+}
+.ki h5{
+    color: azure;
+    font-size: 10px;
+}
+.ki button{
+    padding: 5px 70px;
+    margin-left: 2px;
+    background-color: rgb(156, 156, 196);
+    color: white;
+    border: 2px solid rgb(155, 155, 189);
+    border-radius: 20px;
+    
+}
+.ki input{
+    margin-left: 4px;
+}
+.ki button:hover{
+    border: 2px solid white;
+    background-color: aquamarine;
+}
+.ki i{
+    font-size: 26px;
+    margin-left: 10px;
+}
+/* section7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.,,,,,,,,,,,,,, */
+.padma{
+    height: 300px;
+    width: 100%;
+    border: 2px solid rgb(12, 11, 13);
+    background-color: black;
+}
+.padma1{
+    height: 100px;
+    width: 999px;
+    border: 1px solid rgb(168, 160, 145);
+    margin-left: 130px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: black;
+}
+.padma1 span{
+    margin-left: 90px;
+    color: aliceblue;
+}
+.padma1:hover{
+    border: 2px solid rgb(234, 216, 170);
+}
+.padma1 h3{
+    color: rgb(89, 167, 235);
+}
+.padma1 h2{
+    color: azure;
+}
+.padma1 span img{
+    margin-left: 110px;
+}
+.veeeru{
+    height: 100px;
+    width: 350px;
+    /* border: 2px solid green; */
+    float: left;
+    margin-left: 10px;
+}
+.veeeru h5{
+    color: rgb(104, 104, 240);
+}
+
+.veeru{
+    height: 70px;
+    width: 200px;
+    /* border: 2px solid salmon; */
+    float: left;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.veeru img{
+    height: 70px;
+    width: 200px;
+    
+
+}
+.veeru1{
+    height: 70px;
+    width: 200px;
+    /* border: 2px solid salmon; */
+margin-left: 790px;
+margin-top: 20px;
+}
+.veeru1 img{
+    height: 70px;
+    width: 200px;
+
+}
